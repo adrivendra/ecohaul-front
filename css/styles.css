@@ -1,0 +1,71 @@
+/* Estilos Gerais */
+body {
+  font-family: 'Arial', sans-serif;
+  color: #333;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: #27ae60;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Cabeçalho */
+header {
+  background-color: #27ae60;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+}
+
+/* Seção Introdutória */
+.intro-section {
+  background-color: white;
+  padding: 40px;
+  border-bottom: 2px solid #eaeaea;
+}
+
+/* Seção de Serviços */
+.services-section {
+  background-color: #eaeaea;
+  padding: 40px;
+}
+
+.services-section .images img {
+  width: 100%;
+  max-width: 300px;
+  margin: 10px;
+}
+
+/* Botões */
+.buttons {
+  text-align: center;
+  padding: 20px;
+}
+
+.buttons a {
+  background-color: #27ae60;
+  color: white;
+  padding: 10px 20px;
+  margin: 10px;
+  display: inline-block;
+  border-radius: 5px;
+}
+
+.buttons a:hover {
+  background-color: #2ecc71;
+}
+
+/* Rodapé */
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+}
