@@ -20,7 +20,23 @@ a:hover {
 header {
   background-color: #27ae60;
   color: white;
-  padding: 20px 0;
+  padding: 20px 10%;
+  text-align: center;
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+header .logo {
+  max-height: 110px;
+}
+
+header h1 {
+  flex-grow: 1;
+  margin: 0;
   text-align: center;
 }
 
@@ -31,10 +47,32 @@ header {
   border-bottom: 2px solid #eaeaea;
 }
 
+.intro-section .about-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.intro-section p {
+  flex-grow: 1;
+  margin-right: 20px;
+}
+
+.intro-section .about-img {
+  max-width: 300px; /* Tamanho máximo da imagem */
+  height: auto;
+}
+
 /* Seção de Serviços */
 .services-section {
   background-color: #eaeaea;
   padding: 40px;
+}
+
+.services-section .images {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .services-section .images img {
@@ -67,5 +105,5 @@ footer {
   background-color: #333;
   color: white;
   text-align: center;
-  padding: 10px 0;
+  padding: 20px 0;
 }
