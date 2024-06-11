@@ -38,6 +38,7 @@ body {
   margin-bottom: 1em;
   border: 1px solid #ccc;
   border-radius: 5px;
+  resize: none;
 }
 
 .form-container button {
