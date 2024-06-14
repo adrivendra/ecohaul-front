@@ -15,6 +15,6 @@ O projeto é composto por uma estrutura HTML básica com seções dedicadas ao c
 - `js/script.js`: Arquivo de scripts JavaScript.
   
 ## Tecnologias Utilizadas
-## HTML5
-## CSS3
-## JavaScript
+HTML5
+CSS3
+JavaScript
