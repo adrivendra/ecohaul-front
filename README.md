@@ -1,7 +1,3 @@
-Claro, aqui está o README.md padronizado para ser usado no GitHub:
-
-markdown
-Copy code
 
 # Ecohaul - Página Inicial
 
