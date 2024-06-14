@@ -32,7 +32,7 @@ Contém o logotipo da Ecohaul e o título principal da página.
   </div>
 </header>
 ```
-Seção "Sobre Nós" (<section id="about">)
+### Seção "Sobre Nós" (<section id="about">)
 
 Fornece informações sobre a empresa, sua fundação e métodos de trabalho.
 
@@ -55,7 +55,7 @@ Fornece informações sobre a empresa, sua fundação e métodos de trabalho.
   </div>
 </section>
 
-Seção "Nossos Serviços" (<section id="services">)
+### Seção "Nossos Serviços" (<section id="services">)
 Descreve os serviços oferecidos pela Ecohaul, destacando a missão da empresa e seu compromisso com a sustentabilidade.
 
 <section id="services" class="services-section">
@@ -73,7 +73,7 @@ Descreve os serviços oferecidos pela Ecohaul, destacando a missão da empresa e
   </div>
 </section>
 
-Botões de Cadastro (<section class="buttons">)
+### Botões de Cadastro (<section class="buttons">)
 Oferece links para páginas de cadastro de clientes e transportadores.
 
 <section class="buttons">
@@ -81,21 +81,21 @@ Oferece links para páginas de cadastro de clientes e transportadores.
   <a href="cadastro_transportador.html">Sou Transportador</a>
 </section>
 
-Rodapé (<footer>)
+### Rodapé (<footer>)
 Inclui a declaração de direitos autorais da empresa.
 
 <footer>
   <p>&copy; 2024 Ecohaul. Todos os direitos reservados.</p>
 </footer>
 
-Como Executar o Projeto
-Clonar o Repositório:
+### Como Executar o Projeto
+## Clonar o Repositório:
 git clone https://github.com/seu-usuario/ecohaul.git
 
 Abra o arquivo index.html em um navegador web:
 Você pode simplesmente arrastar e soltar o arquivo no navegador ou usar a opção de "Abrir arquivo" do navegador.
 
-Estrutura de Diretórios
+### Estrutura de Diretórios
 
 ecohaul/
 ├── assets/
@@ -110,7 +110,7 @@ ecohaul/
 ├── cadastro_transportador.html
 └── index.html
 
-Tecnologias Utilizadas
-HTML5
-CSS3
-JavaScript
+## Tecnologias Utilizadas
+## HTML5
+## CSS3
+## JavaScript
